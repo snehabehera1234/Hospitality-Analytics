@@ -22,7 +22,7 @@ AtliQ Grands faced a decline in market share due to increasing competition and m
 - **Realization**: Total of Checked-Out Rooms
 
 ## Project Highlights
-- Developed **4 interactive Power BI dashboards** to analyze sales trends and operational performance metrics, enabling data-driven decision-making.
+- Developed **interactive Power BI dashboards** to analyze sales trends and operational performance metrics, enabling data-driven decision-making.
 - Streamlined data sourcing from **Excel** to monitor performance across three months, enhancing reporting efficiency.
 - Diagnosed the underlying causes of revenue decline, providing insights that could potentially boost revenue by **20%** and aid in recovering market share.
 
